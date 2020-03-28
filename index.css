@@ -41,7 +41,7 @@ body{
     cursor: pointer;
 }
 .main .main-1{
-    background-image: url(/Sushi/img/bgr1.png);
+    background-image: url(/img/bgr1.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
@@ -440,7 +440,7 @@ body{
     top: 140px;
 }
 .main .main-6{
-    background-image: url(/Sushi/img/bgr6.png);
+    background-image: url(/img/bgr6.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
